@@ -5,10 +5,12 @@
 ![Awesome OAuth 2.0 and Token Authentication Service Banner](assets/banner.svg)
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-bluevioeet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service?style=social&color=white" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service?style=social&color=white" alt="GitHub forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 **A curated, production-ready directory of top OAuth 2.0, OpenID Connect (OIDC), and Token Authentication Service solutions.** Explore enterprise-grade hosted SaaS identity providers, battle-tested open-source token authorization servers, passkey & WebAuthn services, pricing benchmarks, and free tier limits for modern cloud applications, microservices, and AI agents.
@@ -39,6 +41,8 @@
   - [15. FusionAuth Community](#15-fusionauth-community)
   - [16. Idenplane](#16-idenplane)
 - [📊 Comparison Matrix at a Glance](#-comparison-matrix-at-a-glance)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -211,6 +215,21 @@ Self-hosted, community-driven OAuth 2.0 and token authorization software. Reposi
 | **Duende IdentityServer** | Self-Hosted | .NET / C# | ✅ Certified | ❌ | ❌ | RPL-1.5 / Paid | Battle-tested commercial ASP.NET Core framework |
 | **FusionAuth Community** | Self-Hosted | Java | ✅ Supported | ✅ Supported | ❌ | Source-available | Single download, unlimited users, no user fees |
 | **Idenplane** | Self-Hosted | TypeScript / NestJS | ✅ Supported | ✅ Supported | ❌ | MIT | Ultra-lightweight (~150 MB RAM) Keycloak alternative |
+
+---
+
+## 💖 Support
+
+If you find this repository helpful, consider supporting its maintenance! 🌟
+* ⭐ **Star** this repository to help others discover it.
+* 🍴 **Fork** and contribute open-source OAuth 2.0 and token authorization tools.
+* 📢 **Share** this list with colleagues, engineering communities, and on social channels.
+* ☕ **Buy me a coffee**: If you'd like to sponsor continued updates and research, you can support via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Oauth-2.0-Token-Authentication-Service&type=date&legend=top-left)
 
 ---
 
